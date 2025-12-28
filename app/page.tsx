@@ -12,7 +12,7 @@ export default function Home() {
           <MemoryGame />
         </Suspense>
       </main>
-      <Footer developerName="R. RUMALDO V."  />
+      <Footer developerName="RuvalDev."  />
     </>
   )
 }
