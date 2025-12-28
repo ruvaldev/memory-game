@@ -18,7 +18,7 @@ export function Footer({
                         by
                         &nbsp;
                         <a
-                            href="https://www.linkedin.com/in/rumaldo-riquelme20"
+                            href="https://www.linkedin.com/in/ruval"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="text-blue-600 hover:underline dark:text-blue-400"
